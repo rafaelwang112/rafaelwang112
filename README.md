@@ -1,4 +1,4 @@
-I am a third-year undergraduate student at the University of Southern California pursuing dual degrees in Electrical and Computer Engineering and Business Administration (Finance).
+Student at the University of Southern California pursuing dual degrees in Electrical and Computer Engineering and Business Administration (Finance), with interests in embedded systems, low-level software development, and applied machine learning.
 
 Many of my projects are private.
 
