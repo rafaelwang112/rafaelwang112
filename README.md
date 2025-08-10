@@ -1,6 +1,6 @@
 ## Rafael Wang
-# I am a third-year undergraduate student at the University of Southern California pursuing dual degrees in Electrical and Computer Engineering and Business Administration (Finance).
-Many of my repos are privated.
+### I am a third-year undergraduate student at the University of Southern California pursuing dual degrees in Electrical and Computer Engineering and Business Administration (Finance).
+Many of my projects are private.
 
 <!--
 **rafaelwang112/rafaelwang112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
