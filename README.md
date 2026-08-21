@@ -1,7 +1,4 @@
-Student at the University of Southern California pursuing dual degrees in Electrical and Computer Engineering and Business Administration (Finance), with interests in applied machine learning, embedded software development, and computer architecture.
-
-Many of my projects are private.
-
+Student at the University of Southern California pursuing dual degrees in Electrical and Computer Engineering and Business Administration (Finance), with interests in machine learning systems, distributed computing, and hardware acceleration.
 <!--
 **rafaelwang112/rafaelwang112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
