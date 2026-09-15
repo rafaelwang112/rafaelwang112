@@ -1,4 +1,4 @@
-USC BS ECE/Finance + MS CompE. Working on hardware acceleration, ML systems, and low-level software.
+USC BS ECE/Finance + MS CompE student, with interests in hardware acceleration, ML systems, and low-level software.
 <!--
 **rafaelwang112/rafaelwang112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
