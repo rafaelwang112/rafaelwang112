@@ -1,4 +1,4 @@
-Student at the University of Southern California pursuing dual degrees in Electrical and Computer Engineering and Business Administration (Finance), with interests in machine learning systems, distributed computing, and hardware acceleration.
+USC BS ECE/Finance + MS CompE. Working on hardware acceleration, ML systems, and low-level software.
 <!--
 **rafaelwang112/rafaelwang112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
